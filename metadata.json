@@ -1,0 +1,6 @@
+{
+  "name": "CineMatch AI - Premium Movie Discovery",
+  "description": "Discover your next favorite movie by mood or beloved films, powered by AI recommendations grounded in verified movie database metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
